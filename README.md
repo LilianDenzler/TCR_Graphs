@@ -77,9 +77,6 @@ Scope of the project:
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-Built with Python3.10 and Cuda....
-
 
 ### Installation
 
