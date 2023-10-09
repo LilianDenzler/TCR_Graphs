@@ -8,7 +8,6 @@
 -->
 
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -16,14 +15,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/liliandenzler/TCR_Graphs">
-    <img src="logo.png" alt="Logo" width="80" height="80">
+    <img src="logo.png" alt="Logo" width="150" height="130">
   </a>
 
   <h3 align="center">TCR Analysis and Stability Enhancing Mutations using GCNs </h3>
 
   <p align="center">
-    By combining LLMs for sequence embedding and graph represetations for structural representation, TCR complex stability is predicted and stability-enhancing mutations are predicted. Biochemical basis for predictions are extracted (explainable AI)
-    An approach combining protein langauge models for sequence encoding and graph representat
+    By combining LLMs for sequence embedding and graph represetations for structural representation, TCR complex stability is predicted and stability-enhancing mutations are predicted. Biochemical basis for predictions are extracted.
     <br />
     <br />
   </p>
@@ -32,8 +30,7 @@
 
 
 <!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
+## Table of Contents
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
@@ -50,7 +47,6 @@
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
-</details>
 
 
 
@@ -114,10 +110,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- CONTACT -->
 ## Contact
+Don't hesitate to reach out!
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Lilian Denzler- [![LinkedIn][linkedin-shield]][https://linkedin.com/liliandenzler] - zcbtlm0@ucl.ac.uk
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
