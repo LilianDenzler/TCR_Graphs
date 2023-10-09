@@ -16,7 +16,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/liliandenzler/TCR_Graphs">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">TCR Analysis and Stability Enhancing Mutations using GCNs </h3>
